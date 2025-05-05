@@ -1,0 +1,3 @@
+CPFs válidos: 1200
+CPFs inválidos: 1800
+Tempo total: 28ms
