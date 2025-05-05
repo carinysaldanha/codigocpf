@@ -1,0 +1,16 @@
+Versão 1 threads 
+Tempo total: 30ms
+Versão 2 threads 
+Tempo total: 26ms
+Versão 3 threads 
+Tempo total: 30ms
+Versão 5 threads 
+Tempo total: 39ms
+Versão 6 threads 
+Tempo total: 30ms
+Versão 10 threads 
+Tempo total: 29ms
+Versão 15 threads 
+Tempo total: 32ms
+Versão 30 threads 
+Tempo total: 36ms
